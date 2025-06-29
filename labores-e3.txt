@@ -1,0 +1,35 @@
+Excelente observación. En contextos profesionales y técnicos, el término **"cascarones"** puede sonar informal o poco técnico. Aquí tienes opciones más precisas y aceptadas:
+
+---
+
+### ✅ Alternativas al término **cascarones** en tu CV:
+
+| Español                              | Inglés técnico equivalente     | Cuándo usarlo                                          |
+| ------------------------------------ | ------------------------------ | ------------------------------------------------------ |
+| **Estructuras base**                 | Base structure / project setup | General, claro y formal                                |
+| **Plantillas técnicas**              | Technical templates            | Cuando son reutilizables o preconfiguradas             |
+| **Esqueleto del proyecto**           | Project skeleton               | En proyectos nuevos, inicialización                    |
+| **Andamiaje técnico**                | Scaffolding                    | Muy técnico, popular en frontend/backend moderno       |
+| **Entornos iniciales de desarrollo** | Initial dev environment        | En configuraciones completas (servicios, rutas, etc.)  |
+| **Arquitectura base**                | Base architecture              | Si además incluye patrones, configuración y estructura |
+
+---
+
+### ✅ Cómo quedaría la frase reescrita:
+
+#### Opción 1 (formal y clara):
+
+> * Diseño la arquitectura de productos de software a partir del análisis de necesidades y requisitos de calidad, y construyo **estructuras base** en las tecnologías correspondientes para coordinar el trabajo del equipo de desarrollo.
+
+#### Opción 2 (más técnica):
+
+> * Definición de arquitecturas técnicas y construcción de **esqueletos de proyecto** (scaffolding) en tecnologías como Spring Boot y Angular, con fines de coordinación técnica.
+
+#### Opción 3 (breve y precisa):
+
+> * Diseño arquitecturas y genero **plantillas técnicas iniciales** para alinear el desarrollo con los requisitos funcionales y de calidad.
+
+---
+
+¿Te gustaría que lo inserte exactamente en tu hoja de vida actual (en Campusland o Modusoftware)? Puedo hacerlo directamente.
+
